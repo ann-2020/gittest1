@@ -3,3 +3,4 @@ git add . && git commit -m "
 2
  git tag -a v1 -m "v1"
  3
+ 4
